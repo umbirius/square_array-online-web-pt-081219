@@ -6,7 +6,7 @@ def square_array(array)
      new_array[i] = square**2
      i+=1
   end
-  new_array
+ p new_array
 end
 
 square_array([1, 2, 3])
