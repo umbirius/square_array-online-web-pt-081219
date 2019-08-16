@@ -1,6 +1,6 @@
 def square_array(array)
   array.each do |square| 
-    puts "#{square}""  
+    puts "#{square}" 
   end
 end
 
